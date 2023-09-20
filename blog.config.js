@@ -400,3 +400,13 @@ const BLOG = {
 }
 
 module.exports = BLOG
+  
+<html>
+  <head>
+    <meta name="baidu-site-verification" content="codeva-Iw9llqZwy2" />
+    <title>My title</title>
+  </head>
+  <body>
+    page contents
+  </body>
+</html>
